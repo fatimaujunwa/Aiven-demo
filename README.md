@@ -39,5 +39,18 @@ This PoC provides:
 git clone https://github.com/your-username/aiven-realtime-demo.git
 cd aiven-realtime-demo
 
+### **2. Provision Infrastructure with Terraform**
+
+```bash
+cd terraform
+terraform init
+terraform apply
+
+### 3. Simulate User Click Events
+
+```bash
+python producer/clickstream_producer.py
+
+
 
  
