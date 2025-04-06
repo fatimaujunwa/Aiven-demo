@@ -41,7 +41,16 @@ terraform apply
 ```bash
 python producer/clickstream_producer.py
 ```
+### 4. Process Data into PostgreSQL
+```bash
+python consumer/clickstream_consumer.py
+```
+### 5. Stream Events to OpenSearch
 
+```bash
+python opensearch/clickstream_to_opensearch.py
+
+```
 
 
 
