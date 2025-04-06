@@ -51,6 +51,27 @@ python consumer/clickstream_consumer.py
 python opensearch/clickstream_to_opensearch.py
 
 ```
+## 🗄️ PostgreSQL Data Example
+
+## 📸 OpenSearch Dashboards
+
+## 🧹 Clean-Up (Preserve Trial Credits)
+To safely remove all services and resources:
+```bash
+terraform destroy
+```
+## 📦 Requirements
+
+```bash
+pip install -r requirements.txt
+
+```
+## 📽️ Demo Walkthrough Video
+
+🎬 [Click here to watch the 10-minute demo](https://your-demo-video-link.com)
+
+
+
 
 
 
