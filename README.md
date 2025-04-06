@@ -34,6 +34,7 @@ This PoC provides:
         │ Aiven for PostgreSQL     │         │ Aiven for OpenSearch       │
         │ (Session Storage via SQL)│         │ (Live Dashboards & Charts) │
         └──────────────────────────┘         └────────────────────────────┘
+---
 
 ## ⚙️ How to Run the Demo
 
