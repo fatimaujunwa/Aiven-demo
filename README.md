@@ -35,4 +35,13 @@ This PoC provides:
         │ (Session Storage via SQL)│         │ (Live Dashboards & Charts) │
         └──────────────────────────┘         └────────────────────────────┘
 
+## ⚙️ How to Run the Demo
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/your-username/aiven-realtime-demo.git
+cd aiven-realtime-demo
+
+
  
