@@ -18,19 +18,6 @@ This PoC provides:
 
 ---
 
-
-## 💡 What This Solves
-
-> "We want to understand what users are doing on our website — right now — and turn that into live, actionable insight."
-
-This PoC provides:
-- **Kafka** for real-time event ingestion  
-- **PostgreSQL** for structured session storage  
-- **OpenSearch** for dashboards and visualizations  
-- **Terraform** for fully automated provisioning
-
-
-
 ## ⚙️ How to Run the Demo
 
 ### 1. Clone the Repo
@@ -39,17 +26,29 @@ This PoC provides:
 git clone https://github.com/your-username/aiven-realtime-demo.git
 cd aiven-realtime-demo
 
-### **2. Provision Infrastructure with Terraform**
+---
+
+### 2. Provision Infrastructure with Terraform
+
 
 ```bash
 cd terraform
 terraform init
 terraform apply
 
-### 3. Simulate User Click Events
 
-```bash
-python producer/clickstream_producer.py
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
