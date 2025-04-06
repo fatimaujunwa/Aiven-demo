@@ -36,6 +36,18 @@ This PoC provides:
         └──────────────────────────┘         └────────────────────────────┘
 ---
 
+## 💡 What This Solves
+
+> "We want to understand what users are doing on our website — right now — and turn that into live, actionable insight."
+
+This PoC provides:
+- **Kafka** for real-time event ingestion  
+- **PostgreSQL** for structured session storage  
+- **OpenSearch** for dashboards and visualizations  
+- **Terraform** for fully automated provisioning
+
+
+
 ## ⚙️ How to Run the Demo
 
 ### 1. Clone the Repo
