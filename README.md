@@ -1,6 +1,6 @@
 # 📊 Real-Time Website Analytics with Aiven
 
-This proof of concept demonstrates how a team can capture and analyze real-time website activity — including page views, session duration, and user engagement — using fully managed Aiven services.
+This proof of concept demonstrates how your team can track real-time website user activity — such as page visits, session flows, and user engagement — using Aiven’s fully managed services.
 
 It’s designed for product, engineering, and analytics teams that need live insight into user behavior without managing infrastructure manually.
 
@@ -69,6 +69,7 @@ python opensearch/clickstream_to_opensearch.py
 
 ```
 ## 🗄️ PostgreSQL Data Example
+Here's a snapshot of structured clickstream data stored in PostgreSQL:
 
 ## 📸 OpenSearch Dashboards
 
@@ -78,6 +79,7 @@ To safely remove all services and resources:
 terraform destroy
 ```
 ## 📦 Requirements
+Install Python dependencies:
 
 ```bash
 pip install -r requirements.txt
