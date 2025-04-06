@@ -25,6 +25,7 @@ This PoC provides:
 ```bash
 git clone https://github.com/your-username/aiven-realtime-demo.git
 cd aiven-realtime-demo
+```
 
 ---
 
@@ -35,6 +36,11 @@ cd aiven-realtime-demo
 cd terraform
 terraform init
 terraform apply
+```
+### 3. Simulate User Click Events
+```bash
+python producer/clickstream_producer.py
+```
 
 
 
