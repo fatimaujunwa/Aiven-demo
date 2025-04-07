@@ -73,6 +73,13 @@ Here's a snapshot of structured clickstream data stored in PostgreSQL:
 
 ## 📸 OpenSearch Dashboards
 <img width="886" alt="Image" src="https://github.com/user-attachments/assets/70916936-16bb-481f-bc8d-8cbb293bbfd3" />
+<img width="892" alt="Image" src="https://github.com/user-attachments/assets/81002b6d-da14-4ffb-8fcd-30561590a590" />
+
+<img width="899" alt="Image" src="https://github.com/user-attachments/assets/a15ddff8-a4a6-47ea-b06f-660bbb291a97" />
+
+<img width="886" alt="Image" src="https://github.com/user-attachments/assets/58407bbc-3cf2-43b4-ba77-48f7e6026971" />
+
+<img width="666" alt="Image" src="https://github.com/user-attachments/assets/eb37c3c0-1ed0-436a-9808-981e9dbfbd64" />
 
 ## 🧹 Clean-Up (Preserve Trial Credits)
 To safely remove all services and resources:
