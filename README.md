@@ -17,6 +17,20 @@ This PoC provides:
 - **Terraform** for fully automated provisioning
 
 ---
+
+## 🛠️ Prerequisites
+
+1. **Aiven Account**  
+   If you don’t have one, [sign up for free](https://console.aiven.io/signup) to get access to managed services like Kafka, PostgreSQL, and OpenSearch.
+
+2. **Aiven API Token**  
+   Generate one from the [Aiven Console](https://console.aiven.io/) under your profile settings — it’s required for Terraform provisioning.
+
+3. **Terraform Installed**  
+   Follow [Terraform's guide](https://developer.hashicorp.com/terraform/downloads) to install it on your system.
+
+4. **Python 3.10+**
+
 ## 🧱 Architecture Overview
 
 ```text
