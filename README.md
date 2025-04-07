@@ -78,6 +78,7 @@ Here's a snapshot of structured clickstream data stored in PostgreSQL:
 
 ### Top Visited pages
 <img width="892" alt="Image" src="https://github.com/user-attachments/assets/81002b6d-da14-4ffb-8fcd-30561590a590" />
+
 ### Event Timeline
 <img width="899" alt="Image" src="https://github.com/user-attachments/assets/a15ddff8-a4a6-47ea-b06f-660bbb291a97" />
 
