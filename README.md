@@ -72,6 +72,7 @@ python opensearch/clickstream_to_opensearch.py
 Here's a snapshot of structured clickstream data stored in PostgreSQL:
 
 ## 📸 OpenSearch Dashboards
+<img width="886" alt="Image" src="https://github.com/user-attachments/assets/70916936-16bb-481f-bc8d-8cbb293bbfd3" />
 
 ## 🧹 Clean-Up (Preserve Trial Credits)
 To safely remove all services and resources:
