@@ -100,7 +100,7 @@ pip install -r requirements.txt
 ```
 ## 📽️ Demo Walkthrough Video
 
-🎬 [Click here to watch the 10-minute demo](https://your-demo-video-link.com)
+🎬 [Click here to watch the 10-minute demo](https://drive.google.com/file/d/1l81ItFywvSPyklzInQlJezGO8APngbv5/view?usp=drive_link)
 
 
 
