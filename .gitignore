@@ -43,3 +43,8 @@ htmlcov/
 !*.py
 !*.tf
 !*.txt
+
+# Ignore Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+
